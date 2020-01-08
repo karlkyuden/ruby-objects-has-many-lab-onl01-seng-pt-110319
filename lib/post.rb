@@ -9,6 +9,9 @@ class Post
   end
   
   def self.all
+    @@all
+  end
+  
   
   
 end
